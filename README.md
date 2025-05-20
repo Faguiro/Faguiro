@@ -8,6 +8,13 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
+Sou profissional da área de Tecnologia da Informação com mais de 10 anos de experiência, sendo os últimos 5 dedicados ao desenvolvimento de software.
+Atualmente atuo como desenvolvedor especializado na criação de produtos e soluções sob medida, com foco em desenhar e implementar abordagens tecnológicas alinhadas às necessidades e regras de negócio dos clientes.
+
+Tenho sólida experiência no desenvolvimento de aplicações utilizando diversas linguagens de programação, além de domínio das principais tecnologias e boas práticas do mercado de software.
+
+Sou movido por desafios e aprendizado contínuo, sempre buscando aprimorar minhas habilidades técnicas e expandir meu conhecimento para entregar soluções cada vez mais eficientes, escaláveis e inovadoras.
+
 Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
 ## 🧠 Habilidades Técnicas
