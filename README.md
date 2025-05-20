@@ -2,37 +2,108 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-# 🚀 Olá, eu sou Fabiano G. Rocha (Faguiro) - Desenvolvedor de Software
+# 🚀 Olá, eu sou Fabiano G. Rocha - Desenvolvedor de Software
 
 ## Sobre mim
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
-Atualmente, trabalho remotamente a partir de Queimados, Rio de Janeiro, Brasil.
+Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
 ## 🧠 Habilidades Técnicas
 
 💻 Tecnologias que domino:
 
-- **Linguagens de Programação**:
+### 💻 Linguagens de Programação
 
-  [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,nodejs)](https://skillicons.dev)
 
-- **Frameworks e Bibliotecas**:
+- ![Python](https://skillicons.dev/icons?i=python) Python (incluindo automação com BeautifulSoup e Selenium)  
+- ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript (ES6+)  
+- ![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript  
+- ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js
 
-  [![My Skills](https://skillicons.dev/icons?i=django,react,flask)](https://skillicons.dev)
+---
 
-- **Dados**:
+### 🧰 Frameworks & Bibliotecas
 
-  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,react,bootstrap)](https://skillicons.dev)
 
-- **Ferramentas e Tecnologias**:
+- ![React.js](https://skillicons.dev/icons?i=react) React.js / React Native  
+- ![Django](https://skillicons.dev/icons?i=django) Django  
+- ![Flask](https://skillicons.dev/icons?i=flask) Flask  
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap  
+- ![JQuery](https://skillicons.dev/icons?i=jquery) JQuery  
+- VTEX IO (plataforma e framework)  
+- Web Design Responsivo  
+- Automação de Testes  
+- Testes com Pytest, Unittest  
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)
+---
 
-- **Desenvolvimento Web**:
+### 🗄️ Banco de Dados
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+- ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
+- PostgreSQL, SQLite  
+- Oracle Database  
+- Modelagem de Dados  
+- Otimização e Consultas SQL
+
+---
+
+### 🌐 Desenvolvimento Web
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+- ![HTML5](https://skillicons.dev/icons?i=html) HTML5  
+- ![CSS3](https://skillicons.dev/icons?i=css) CSS3  
+- Responsividade e Mobile First  
+- Desenvolvimento de front-end com foco em UX  
+- Integrações com APIs RESTful
+
+---
+
+### 🚀 DevOps & Infraestrutura
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,aws,azure)](https://skillicons.dev)
+
+- ![Git](https://skillicons.dev/icons?i=git) Git, ![GitHub](https://skillicons.dev/icons?i=github) GitHub  
+- ![Linux](https://skillicons.dev/icons?i=linux) Linux (Ubuntu), NGINX, VPS  
+- ![Docker](https://skillicons.dev/icons?i=docker) Docker  
+- ![AWS](https://skillicons.dev/icons?i=aws) AWS, ![Azure](https://skillicons.dev/icons?i=azure) Azure (nuvem híbrida e infraestrutura escalável)  
+- DevOps pipelines  
+- Monitoramento de servidores
+
+---
+
+### 🧪 Testes & Automação
+
+- ![Selenium](https://skillicons.dev/icons?i=selenium) Selenium  
+- Testes de Integração e Unidade com Pytest / Unittest  
+- Análise de Logs e Debugging
+
+---
+
+### 🧩 Soft Skills Técnicas
+
+- Resolução de Problemas Técnicos  
+- Criatividade em Soluções  
+- Web Design Responsivo  
+- Metodologias Ágeis (Scrum, Kanban)  
+- Organização e Manutenção de Código  
+- Comunicação técnica clara
+
+---
+
+### 🤖 Inteligência Artificial & Computação
+
+- Visão Computacional  
+- LLMs (Modelos de Linguagem como Olamma, ChatGPT, etc.)  
+- RPS (Reconhecimento de padrões e sinais)  
+- Automação com IA (classificadores, scraping inteligente)
+
 
 ## 🌟 Projetos em Destaque
 
