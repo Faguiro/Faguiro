@@ -16,8 +16,6 @@ Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
 ### 💻 Linguagens de Programação
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,nodejs)](https://skillicons.dev)
-
 - ![Python](https://skillicons.dev/icons?i=python) Python (incluindo automação com BeautifulSoup e Selenium)  
 - ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript (ES6+)  
 - ![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript  
@@ -26,8 +24,6 @@ Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 ---
 
 ### 🧰 Frameworks & Bibliotecas
-
-[![My Skills](https://skillicons.dev/icons?i=django,flask,react,bootstrap)](https://skillicons.dev)
 
 - ![React.js](https://skillicons.dev/icons?i=react) React.js / React Native  
 - ![Django](https://skillicons.dev/icons?i=django) Django  
@@ -43,8 +39,6 @@ Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
 ### 🗄️ Banco de Dados
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
 - ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
 - PostgreSQL, SQLite  
 - Oracle Database  
@@ -55,8 +49,6 @@ Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
 ### 🌐 Desenvolvimento Web
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-
 - ![HTML5](https://skillicons.dev/icons?i=html) HTML5  
 - ![CSS3](https://skillicons.dev/icons?i=css) CSS3  
 - Responsividade e Mobile First  
@@ -66,8 +58,6 @@ Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 ---
 
 ### 🚀 DevOps & Infraestrutura
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,aws,azure)](https://skillicons.dev)
 
 - ![Git](https://skillicons.dev/icons?i=git) Git, ![GitHub](https://skillicons.dev/icons?i=github) GitHub  
 - ![Linux](https://skillicons.dev/icons?i=linux) Linux (Ubuntu), NGINX, VPS  
