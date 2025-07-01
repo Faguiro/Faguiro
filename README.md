@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-✨ Sou um desenvolvedor  desafios criativos e soluções inovadoras.✨
+✨ Sou um desenvolvedor com foco em  desafios criativos e soluções inovadoras.✨
 
 Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
