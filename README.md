@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Sou um desenvolvedor  desafios criativos e soluções inovadoras.✨
 
 Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
 
