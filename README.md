@@ -29,7 +29,7 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>easy-tradutor - Tradutor Rápido</h3>
+      <h3>Easy-tradutor - Tradutor Rápido</h3>
       <p><strong>easy-tradutor</strong> é uma aplicação Python que oferece traduções rápidas e eficientes. Com duas versões, permite ao usuário traduzir textos copiados para a área de transferência de forma automática ou manual, facilitando a compreensão de conteúdos em diferentes idiomas sem a necessidade de navegar por sites ou aplicativos.</p>
       <a href="https://github.com/Faguiro/easy-tradutor" target="_blank">🔗 Ver no GitHub</a>
         <p>🔹</p>
