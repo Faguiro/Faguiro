@@ -20,6 +20,7 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
       <h3>Biblos - Biblioteca Online Colaborativa</h3>
       <p>O <strong>Biblos</strong> é uma plataforma colaborativa que permite a criação de bibliotecas digitais compartilhadas. Utilizando o Google Drive como repositório, grupos de estudo, pesquisadores e comunidades podem organizar, compartilhar e acessar materiais acadêmicos de forma eficiente e colaborativa.</p>
       <a href="https://github.com/Faguiro/biblos-biblioteca_online_pydrive/tree/main" target="_blank">🔗 Ver no GitHub</a>
+       <br />
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -31,6 +32,7 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
       <h3>easy-tradutor - Tradutor Rápido</h3>
       <p><strong>easy-tradutor</strong> é uma aplicação Python que oferece traduções rápidas e eficientes. Com duas versões, permite ao usuário traduzir textos copiados para a área de transferência de forma automática ou manual, facilitando a compreensão de conteúdos em diferentes idiomas sem a necessidade de navegar por sites ou aplicativos.</p>
       <a href="https://github.com/Faguiro/easy-tradutor" target="_blank">🔗 Ver no GitHub</a>
+      <br />
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CustomTkinter-000000?style=for-the-badge&logo=python&logoColor=white" />
