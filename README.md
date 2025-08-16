@@ -18,8 +18,8 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
   <tr>
     <td width="50%" valign="top">
       <h3>Biblos - Biblioteca Online Colaborativa</h3>
-      <p>Plataforma onde grupos de estudo, pesquisadores e comunidades podem criar bibliotecas compartilhadas de PDF. Organize materiais acadêmicos, compartilhe recursos e acesse conteúdos de forma colaborativa usando o Google Drive como repositório.</p>
-      <a href="https://github.com/Faguiro/biblos-biblioteca_online_pydrive/tree/main">🔗 Ver no GitHub</a>
+      <p>O <strong>Biblos</strong> é uma plataforma colaborativa que permite a criação de bibliotecas digitais compartilhadas. Utilizando o Google Drive como repositório, grupos de estudo, pesquisadores e comunidades podem organizar, compartilhar e acessar materiais acadêmicos de forma eficiente e colaborativa.</p>
+      <a href="https://github.com/Faguiro/biblos-biblioteca_online_pydrive/tree/main" target="_blank">🔗 Ver no GitHub</a>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -28,8 +28,8 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>Projeto: easy-tradutor</h3>
-      <p>O <strong>easy-tradutor</strong> é uma aplicação Python desenvolvida para facilitar traduções rápidas e eficientes. Ela oferece duas versões: uma com interface gráfica que pode ser acionada manualmente e outra que monitora a área de transferência para traduzir automaticamente textos copiados. Ideal para quem busca agilidade na tradução de conteúdos sem a necessidade de navegação em sites ou aplicativos.</p>
+      <h3>easy-tradutor - Tradutor Rápido</h3>
+      <p><strong>easy-tradutor</strong> é uma aplicação Python que oferece traduções rápidas e eficientes. Com duas versões, permite ao usuário traduzir textos copiados para a área de transferência de forma automática ou manual, facilitando a compreensão de conteúdos em diferentes idiomas sem a necessidade de navegar por sites ou aplicativos.</p>
       <a href="https://github.com/Faguiro/easy-tradutor" target="_blank">🔗 Ver no GitHub</a>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,9 +37,9 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
         <img src="https://img.shields.io/badge/Google%20Translate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
       </div>
     </td>
-
   </tr>
 </table>
+
 
 ---
 
