@@ -17,13 +17,14 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Projeto 1: Nome do Projeto</h3>
-      <p>Uma breve descrição do seu projeto, o que ele faz, qual problema ele resolve e o seu papel no desenvolvimento.</p>
-      <a href="LINK-PARA-SEU-PROJETO-AQUI">🔗 Ver no GitHub</a>
+      <h3>Biblos - Biblioteca Online Colaborativa</h3>
+      <p>Plataforma onde grupos de estudo, pesquisadores e comunidades podem criar bibliotecas compartilhadas de PDF. Organize materiais acadêmicos, compartilhe recursos e acesse conteúdos de forma colaborativa usando o Google Drive como repositório.</p>
+      <a href="https://github.com/Faguiro/biblos-biblioteca_online_pydrive/tree/main">🔗 Ver no GitHub</a>
       <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
