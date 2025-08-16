@@ -2,7 +2,7 @@
 
 ### 🚀 Desenvolvedor de Software Full-Stack | Apaixonado por Tecnologia e Inovação
 
-Sou um desenvolvedor de software baseado no Rio de Janeiro, Brasil. Tenho um grande interesse em criar soluções eficientes e criativas que resolvem problemas reais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer no mundo da tecnologia.
+Com foco na construção de sistemas backend robustos e escaláveis utilizando Python com frameworks como Django e Flask, também possuo sólida experiência no desenvolvimento de interfaces front-end com React, JavaScript e TypeScript. Minha atuação se estende à automação de infraestrutura e otimização de pipelines de CI/CD com Docker, Git e serviços de nuvem como AWS e Azure, garantindo a entrega de soluções de ponta a ponta.
 
 ---
 
