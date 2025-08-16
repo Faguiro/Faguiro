@@ -1,95 +1,104 @@
+# 👋 Olá, eu sou Fabiano G. Rocha
 
-# 🚀 Olá, eu sou Fabiano G. Rocha - Desenvolvedor de Software
+### 🚀 Desenvolvedor de Software Full-Stack | Apaixonado por Tecnologia e Inovação
 
-## Sobre mim
-
-✨ Sou um desenvolvedor com foco em  desafios criativos e soluções inovadoras.✨
-
-Atualmente, trabalho remotamente a partir do Rio de Janeiro, Brasil.
-
-## 🧠 Habilidades Técnicas
-
-### 💻 Linguagens de Programação
-
-- ![Python](https://skillicons.dev/icons?i=python) Python (incluindo automação com BeautifulSoup e Selenium)  
-- ![JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript (ES6+)  
-- ![TypeScript](https://skillicons.dev/icons?i=typescript) TypeScript  
-- ![Node.js](https://skillicons.dev/icons?i=nodejs) Node.js
+Sou um desenvolvedor de software baseado no Rio de Janeiro, Brasil. Tenho um grande interesse em criar soluções eficientes e criativas que resolvem problemas reais. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer no mundo da tecnologia.
 
 ---
 
-### 🧰 Frameworks & Bibliotecas
+### 🔗 **Conecte-se comigo**
 
-- ![React.js](https://skillicons.dev/icons?i=react) React.js / React Native  
-- ![Django](https://skillicons.dev/icons?i=django) Django  
-- ![Flask](https://skillicons.dev/icons?i=flask) Flask  
-- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) Bootstrap  
-- ![JQuery](https://skillicons.dev/icons?i=jquery) JQuery  
-- VTEX IO (plataforma e framework)  
-- Web Design Responsivo  
-- Automação de Testes  
-- Testes com Pytest, Unittest  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+---
+
+### ✨ **Projetos em Destaque**
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Projeto 1: Nome do Projeto</h3>
+      <p>Uma breve descrição do seu projeto, o que ele faz, qual problema ele resolve e o seu papel no desenvolvimento.</p>
+      <a href="LINK-PARA-SEU-PROJETO-AQUI">🔗 Ver no GitHub</a>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Projeto 2: Nome do Projeto</h3>
+      <p>Uma breve descrição do seu projeto, o que ele faz, qual problema ele resolve e o seu papel no desenvolvimento.</p>
+      <a href="LINK-PARA-SEU-PROJETO-AQUI">🔗 Ver no GitHub</a>
+      <div>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🗄️ Banco de Dados
+### 🛠️ **Habilidades Técnicas**
 
-- ![MySQL](https://skillicons.dev/icons?i=mysql) MySQL  
-- PostgreSQL, SQLite  
-- Oracle Database  
-- Modelagem de Dados  
-- Otimização e Consultas SQL
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Linguagens de Programação:</strong><br>
+      ![Python](https://skillicons.dev/icons?i=python)
+      ![JavaScript](https://skillicons.dev/icons?i=javascript)
+      ![TypeScript](https://skillicons.dev/icons?i=typescript)
+      ![Node.js](https://skillicons.dev/icons?i=nodejs)
+      ![HTML5](https://skillicons.dev/icons?i=html)
+      ![CSS3](https://skillicons.dev/icons?i=css)
+      <br><br>
+      <strong>Frameworks & Bibliotecas:</strong><br>
+      ![React.js](https://skillicons.dev/icons?i=react)
+      ![Django](https://skillicons.dev/icons?i=django)
+      ![Flask](https://skillicons.dev/icons?i=flask)
+      ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+      ![JQuery](https://skillicons.dev/icons?i=jquery)
+      ![Selenium](https://skillicons.dev/icons?i=selenium)
+      <br><br>
+      <strong>Inteligência Artificial & Automação:</strong><br>
+      • Visão Computacional<br>
+      • LLMs (ChatGPT, Olamma)<br>
+      • Reconhecimento de Padrões<br>
+      • Web Scraping Inteligente
+    </td>
+    <td valign="top" width="50%">
+      <strong>Banco de Dados:</strong><br>
+      ![MySQL](https://skillicons.dev/icons?i=mysql)
+      ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+      ![SQLite](https://skillicons.dev/icons?i=sqlite)
+      ![Oracle](https://skillicons.dev/icons?i=oracle)
+      <br><br>
+      <strong>DevOps & Infraestrutura:</strong><br>
+      ![Git](https://skillicons.dev/icons?i=git)
+      ![GitHub](https://skillicons.dev/icons?i=github)
+      ![Docker](https://skillicons.dev/icons?i=docker)
+      ![Linux](https://skillicons.dev/icons?i=linux)
+      ![AWS](https://skillicons.dev/icons?i=aws)
+      ![Azure](https://skillicons.dev/icons?i=azure)
+      <br><br>
+      <strong>Metodologias & Soft Skills:</strong><br>
+      • Metodologias Ágeis (Scrum, Kanban)<br>
+      • Resolução de Problemas Complexos<br>
+      • Web Design Responsivo (Mobile First)<br>
+      • Testes (Pytest, Unittest)
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Desenvolvimento Web
+### 📊 **Estatísticas do GitHub**
 
-- ![HTML5](https://skillicons.dev/icons?i=html) HTML5  
-- ![CSS3](https://skillicons.dev/icons?i=css) CSS3  
-- Responsividade e Mobile First  
-- Desenvolvimento de front-end com foco em UX  
-- Integrações com APIs RESTful
-
----
-
-### 🚀 DevOps & Infraestrutura
-
-- ![Git](https://skillicons.dev/icons?i=git) Git, ![GitHub](https://skillicons.dev/icons?i=github) GitHub  
-- ![Linux](https://skillicons.dev/icons?i=linux) Linux (Ubuntu), NGINX, VPS  
-- ![Docker](https://skillicons.dev/icons?i=docker) Docker  
-- ![AWS](https://skillicons.dev/icons?i=aws) AWS, ![Azure](https://skillicons.dev/icons?i=azure) Azure (nuvem híbrida e infraestrutura escalável)  
-- DevOps pipelines  
-- Monitoramento de servidores
-
----
-
-### 🧪 Testes & Automação
-
-- ![Selenium](https://skillicons.dev/icons?i=selenium) Selenium  
-- Testes de Integração e Unidade com Pytest / Unittest  
-- Análise de Logs e Debugging
-
----
-
-### 🧩 Soft Skills Técnicas
-
-- Resolução de Problemas Técnicos  
-- Criatividade em Soluções  
-- Web Design Responsivo  
-- Metodologias Ágeis (Scrum, Kanban)  
-- Organização e Manutenção de Código  
-- Comunicação técnica clara
-
----
-
-### 🤖 Inteligência Artificial & Computação
-
-- Visão Computacional  
-- LLMs (Modelos de Linguagem como Olamma, ChatGPT, etc.)  
-- RPS (Reconhecimento de padrões e sinais)  
-- Automação com IA (classificadores, scraping inteligente)
-
-
-## 📊 Estatísticas do GitHub
-
-![Faguiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Faguiro&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/Faguiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Faguiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faguiro&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
