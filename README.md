@@ -18,7 +18,7 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
   <tr>
     <td width="50%" valign="top">
       <h3>Biblos - Biblioteca Online Colaborativa</h3>
-      <p>O <strong>Biblos</strong> é uma plataforma colaborativa que permite a criação de bibliotecas digitais compartilhadas. Utilizando o Google Drive como repositório, grupos de estudo, pesquisadores e comunidades podem organizar, compartilhar e acessar materiais acadêmicos de forma eficiente e colaborativa.</p>
+      <p>O <strong>Biblos</strong> é uma plataforma colaborativa que permite a criação de bibliotecas digitais compartilhadas. Utilizando o Google Drive como repositório, grupos de estudo, pesquisadores e comunidades podem organizar, compartilhar e acessar materiais acadêmicos de forma eficiente e colaborativa. Conectando pessoas através do compartilhamento de materiais educacionais e acadêmicos.* </p>
       <a href="https://github.com/Faguiro/biblos-biblioteca_online_pydrive/tree/main" target="_blank">🔗 Ver no GitHub</a>
        <br />
       <div>
