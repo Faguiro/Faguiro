@@ -28,15 +28,16 @@ Com foco na construção de sistemas backend robustos e escaláveis utilizando P
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3>Projeto 2: Nome do Projeto</h3>
-      <p>Uma breve descrição do seu projeto, o que ele faz, qual problema ele resolve e o seu papel no desenvolvimento.</p>
-      <a href="LINK-PARA-SEU-PROJETO-AQUI">🔗 Ver no GitHub</a>
+      <h3>Projeto: easy-tradutor</h3>
+      <p>O <strong>easy-tradutor</strong> é uma aplicação Python desenvolvida para facilitar traduções rápidas e eficientes. Ela oferece duas versões: uma com interface gráfica que pode ser acionada manualmente e outra que monitora a área de transferência para traduzir automaticamente textos copiados. Ideal para quem busca agilidade na tradução de conteúdos sem a necessidade de navegação em sites ou aplicativos.</p>
+      <a href="https://github.com/Faguiro/easy-tradutor" target="_blank">🔗 Ver no GitHub</a>
       <div>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CustomTkinter-000000?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Translate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
       </div>
     </td>
+
   </tr>
 </table>
 
